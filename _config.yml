@@ -1,25 +1,25 @@
 # Site settings
-title: Blaze Boy
-email: blazeeboy@gmail.com
-description: "Software Engineer and Particularly a Ruby Addict"
+title: Cheese Dev
+email: nezahrish@gmail.com
+description: "cheese dev"
 baseurl: ''
-url: "http://www.blazeboy.me"
+url: "http://cheddars.github.io"
 signoff: 'E.E'
 
 # Build settings
 markdown: kramdown
 permalink: /:title.html
 
-disqus_shortname: blazeboy
-facebook_appid:   1400091873588797
-google_analytics: UA-53753121-1
+disqus_shortname: 
+facebook_appid:   
+google_analytics: 
 
 links:
   - name:         About
     url:          /about
   - name:         Facebook
-    url:          https://www.facebook.com/blazeeboy
+    url:          
     external:     true
   - name:         GitHub
-    url:          https://github.com/blazeeboy
+    url:          
     external:     true
