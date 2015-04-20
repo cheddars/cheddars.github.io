@@ -10,7 +10,7 @@ signoff: 'soft cheese'
 markdown: kramdown
 permalink: /:title.html
 
-disqus_shortname:cheddar
+disqus_shortname:cheddarblog
 facebook_appid:   
 google_analytics: 
 
