@@ -4,13 +4,13 @@ email: nezahrish@gmail.com
 description: "cheese dev"
 baseurl: ''
 url: "http://cheddars.github.io"
-signoff: 'E.E'
+signoff: 'soft cheese'
 
 # Build settings
 markdown: kramdown
 permalink: /:title.html
 
-disqus_shortname: 
+disqus_shortname:disqus_VWoYmV5dCS 
 facebook_appid:   
 google_analytics: 
 
