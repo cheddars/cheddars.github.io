@@ -12,7 +12,7 @@ permalink: /:title.html
 
 disqus_shortname: cheddarblog
 facebook_appid:   
-google_analytics: 
+google_analytics: UA-62181185-1
 
 links:
   - name:         About
